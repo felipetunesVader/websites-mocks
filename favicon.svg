@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fundo circular -->
+    <circle cx="256" cy="256" r="256" fill="#2c3e50"/>
+    
+    <!-- Símbolo de saúde estilizado -->
+    <path d="M256 96C238.3 96 224 110.3 224 128V224H128C110.3 224 96 238.3 96 256C96 273.7 110.3 288 128 288H224V384C224 401.7 238.3 416 256 416C273.7 416 288 401.7 288 384V288H384C401.7 288 416 273.7 416 256C416 238.3 401.7 224 384 224H288V128C288 110.3 273.7 96 256 96Z" fill="white"/>
+    
+    <!-- Círculo decorativo -->
+    <circle cx="256" cy="256" r="180" stroke="white" stroke-width="24" stroke-opacity="0.2" fill="none"/>
+</svg> 
